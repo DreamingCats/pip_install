@@ -1,2 +1,9 @@
 # pip_install
- my personal  python packages
+Just run install.bat
+
+or use
+
+```
+pip install -r requirements.txt
+```
+

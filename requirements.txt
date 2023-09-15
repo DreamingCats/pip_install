@@ -1,0 +1,17 @@
+requests
+bs4
+
+#use GPT
+openai
+
+#CNN
+Flask
+Django
+requests
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
+tensorflow
+pytorch
